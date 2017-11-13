@@ -15,6 +15,5 @@ namespace Entidades
         //chave estrangeiras
         public int PacienteId { get; set; }
         public int MedicoId { get; set; }
-
     }
 }
