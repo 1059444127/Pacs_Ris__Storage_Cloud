@@ -12,7 +12,7 @@ namespace Entidades
         public string Laudo { get; set; }
         public DateTime DataConsulta { get; set; }
 
-        //chave estrangeira
+        //chave estrangeiras
         public int PacienteId { get; set; }
         public int MedicoId { get; set; }
 
